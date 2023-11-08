@@ -1,0 +1,96 @@
+body {
+    
+    font-family: Arial, sans-serif;
+    background-color: rgb(214, 208, 208);
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin-left: 880px;
+    margin-top: 20px;
+    position: absolute;
+    color: white;
+}
+
+.fundo{
+    background-color: rgb(114, 5, 5);
+    width: 400px;
+    height: 450px;
+    margin-left: 725px;
+    border-radius: 40px;
+    margin-top: 200px;
+}
+
+.msg1{
+    background-color: whitesmoke;
+    width: 380px;
+    height: 65px;
+    border-radius: 17px;
+    margin-top: -350px;
+    margin-left: 736px;
+}
+.msg2{
+    background-color: whitesmoke;
+    width: 380px;
+    height: 65px;
+    border-radius: 17px;
+    margin-top: 20px;
+    margin-left: 736px;
+}
+.msg3{
+    background-color: whitesmoke;
+    width: 380px;
+    height: 65px;
+    border-radius: 17px;
+    margin-top: 20px;
+    margin-left: 736px;
+}
+.msg4{
+    background-color: whitesmoke;
+    width: 380px;
+    height: 65px;
+    border-radius: 17px;
+    margin-top: 20px;
+    margin-left: 736px;
+}
+.neymar{
+    background-image: url('neymar.png');
+    width: 60px;
+    height: 60px;
+    margin-left: 750px;
+    margin-top: -318px;
+    background-size: cover;
+    border-radius: 50px;
+    background-color: blue;
+}
+.messi{
+    background-image: url('neymar.png');
+    width: 60px;
+    height: 60px;
+    margin-left: 750px;
+    margin-top: -318px;
+    background-size: cover;
+    border-radius: 50px;
+    background-color: blue;
+}
+.cr7{
+    background-image: url('neymar.png');
+    width: 60px;
+    height: 60px;
+    margin-left: 750px;
+    margin-top: -318px;
+    background-size: cover;
+    border-radius: 50px;
+    background-color: blue;
+}
+.haaland{
+    background-image: url('neymar.png');
+    width: 60px;
+    height: 60px;
+    margin-left: 750px;
+    margin-top: -318px;
+    background-size: cover;
+    border-radius: 50px;
+    background-color: blue;
+}
